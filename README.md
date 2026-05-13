@@ -1,38 +1,38 @@
-\# Active Directory Project
+**# Active Directory Project**
 
 
 
-\## Part 1: Logical Diagram
+**## Part 1: Logical Diagram**
 
 
 
-\### Objective
+**### Objective**
 
-Create an Active Directory environment in Draw.io, integrating all core components and their connectivity so I can automate responsive actions.
-
-
-
-\### Skills Learned
-
-\- Active Directory architecture design
-
-\- SIEM integration planning (Splunk)
-
-\- SOAR workflow mapping (Shuffle)
-
-\- Security telemetry flow design
-
-\- Infrastructure visualization using Draw.io
+**Create an Active Directory environment in Draw.io, integrating all core components and their connectivity so I can automate responsive actions.**
 
 
 
-\### Tools
+**### Skills Learned**
 
-\- Draw.io
+**- Active Directory architecture design**
+
+**- SIEM integration planning (Splunk)**
+
+**- SOAR workflow mapping (Shuffle)**
+
+**- Security telemetry flow design**
+
+**- Infrastructure visualization using Draw.io**
 
 
 
-\### Diagram
+**### Tools**
 
-!\[Part 1 Diagram](diagram-part1.png)
+**- Draw.io**
+
+
+
+**### Diagram**
+
+**!\[Part 1 Diagram](diagram-part1.png)**
 
