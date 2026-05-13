@@ -32,7 +32,11 @@
 
 
 
-**### Diagram**
+**### Steps**
+
+
+
+**Ref 1: Network Diagram**  
 
 **!\[Part 1 Diagram](diagram-part1.png)**
 
