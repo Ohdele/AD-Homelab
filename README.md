@@ -1,10 +1,8 @@
-\## Active Directory Project.
+\# Active Directory Project
 
 
 
-\## Part 1: 
-
-\### Logical Diagram
+\## Part 1: Logical Diagram
 
 
 
@@ -30,5 +28,11 @@ Create an Active Directory environment in Draw.io, integrating all core componen
 
 \### Tools
 
-\- Draw.io 
+\- Draw.io
+
+
+
+\### Diagram
+
+!\[Part 1 Diagram](diagram-part1.png)
 
