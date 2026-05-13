@@ -36,7 +36,7 @@
 
 
 
-**Ref 1: Network Diagram**  
+**Ref 1: Network Diagram**
 
-**!\[Part 1 Diagram](diagram-part1.png)**
+**<img src="diagram-part1.png">**
 
