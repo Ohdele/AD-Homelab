@@ -112,3 +112,47 @@ Ref 4: Active Directory Client Verification
 Windows 11 machine successfully registered in Active Directory under DFIR.local Computers container.
 <img src="screenshots-part3/04_ADUC_TargetPC.png">
 
+---
+
+# Part 4: SIEM Deployment & Alerting Automation
+
+## Objective
+Configure Splunk to ingest Windows telemetry and detect unauthorized RDP logins.
+
+## Skills Learned
+- Splunk SIEM deployment and configuration
+- Windows telemetry ingestion and index management
+- Automated security alert development using optimized SPL queries
+- RDP authentication monitoring and analysis
+- Threat simulation and alert validation using Kali Linux
+
+## Tools
+- Splunk Enterprise
+- Splunk Universal Forwarder
+- Kali Linux
+- Windows 10
+- Windows Server
+- Ubuntu Server
+
+## Steps
+
+Ref 1: Splunk Index Creation  
+Splunk installed and index “win_telemetry” successfully created via Web UI.
+<img src="screenshots-part4/01_Splunk_Index_Created.png">
+
+Ref 2: Forwarder Status Verification  
+Splunk Universal Forwarder installed and running on both client and server machines.
+<img src="screenshots-part4/02_Splunk_Forwarder_Status.png">
+
+Ref 3: Telemetry Ingestion Confirmation  
+SOC Analyst successfully receiving telemetry from both Windows client and Domain Controller systems via Splunk.
+<img src="screenshots-part4/03_Splunk_Telemetry_Ingestion.png">
+
+Ref 4: RDP Forensic Analysis  
+Evidence of successful RDP authentication (LogonType 10) originating from Kali Linux host 192.168.10.105.
+<img src="screenshots-part4/04_Splunk_Successful_Logon_Query.png">
+
+Ref 5: Incident Alert Trigger  
+Incident evidence showing the DFIR-Unauthorized-Successful-Login alert firing in the Splunk console.
+<img src="screenshots-part4/05_Splunk_Triggered_Alert_Confirmation.png">
+
